@@ -14,7 +14,8 @@
 
 * **Info**
    * The port used in calculator_main.py is '2022'.
-   **Run ngrok**
+
+* **Run ngrok**
     * > ngrok http 2022 
     
 
